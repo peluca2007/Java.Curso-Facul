@@ -1,7 +1,7 @@
-public class Luiz {
+public class Pessoa {
 
     private int idade = 20;
-    private String cara = "manco";
+    private String cara = "normal";
     private char namorando = 'n';
 
     private Roupa rp ;
@@ -34,10 +34,10 @@ public class Luiz {
         this.namorando = namorando_x;
     }
 
-    public Luiz() {
+    public Pessoa() {
         System.out.println("\n\t METODO CONSTRUTOR");
         idade = 20;
-        cara = "manco";
+        cara = "normal";
         namorando = 'n';
         rp =new Roupa();
     }

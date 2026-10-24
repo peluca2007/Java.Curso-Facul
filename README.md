@@ -14,9 +14,9 @@ Exercícios de Java das primeiras aulas de Programação Orientada a Objetos da 
 - `aulaj2.java` - rascunho de classe `Pessoa` com métodos de inserir e mostrar dados
 - Imagens de apoio: diagrama de classes, alocação de memória/reflexividade e troca de mensagens/encapsulamento
 
-### `Luiz/`
+### `Encapsulamento/`
 
-- `Luiz.java`, `Roupa.java`, `TstLuiz.java`, `Leitura.java` - exercício de encapsulamento e composição: lê atributos pelo teclado, altera via setters e exibe via getters
+- `Pessoa.java`, `Roupa.java`, `TstPessoa.java`, `Leitura.java` - exercício de encapsulamento e composição: lê atributos pelo teclado, altera via setters e exibe via getters
 
 ## Tecnologias
 
@@ -34,9 +34,9 @@ java TstPes
 javac Aulaj.java
 java Aulaj 5 3
 
-cd ../Luiz
+cd ../Encapsulamento
 javac *.java
-java TstLuiz
+java TstPessoa
 ```
 
 ## Observações
