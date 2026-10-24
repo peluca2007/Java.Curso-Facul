@@ -1,0 +1,7 @@
+# Arquivos compilados e saida de build
+*.class
+out/
+bin/
+
+# IntelliJ IDEA
+.idea/
